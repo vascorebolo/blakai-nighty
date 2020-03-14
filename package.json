@@ -1,0 +1,21 @@
+{
+    "name": "blakai-nighty",
+    "displayName": "blakai-nighty",
+    "description": "Color theme based on blakai theme, with bluish nuances and highlights, and darker tones for the UI.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blakai Nighty",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blakai Nighty-color-theme.json"
+            }
+        ]
+    }
+}
