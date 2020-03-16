@@ -6,6 +6,13 @@
     "version": "0.2.0",
     "repository": "https://github.com/vascocsilva/blakai-nighty",
     "icon": "images/logo.png",
+    "keywords": [
+      "color-theme",
+      "theme",
+      "dark",
+      "dark-theme",
+      "monokai-dark"
+    ],
     "engines": {
         "vscode": "^1.43.0"
     },
