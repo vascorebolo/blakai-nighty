@@ -2,7 +2,10 @@
     "name": "blakai-nighty",
     "displayName": "blakai-nighty",
     "description": "Color theme based on blakai theme, with bluish nuances and highlights, and darker tones for the UI.",
+    "publisher": "VascoSilva",
     "version": "0.0.1",
+    "repository": "https://github.com/vascocsilva/blakai-nighty",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.43.0"
     },
