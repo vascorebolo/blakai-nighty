@@ -3,15 +3,15 @@
     "displayName": "blakai-nighty",
     "description": "Color theme based on blackai theme, with bluish nuances and highlights, and darker tones for the UI.",
     "publisher": "VascoSilva",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "repository": "https://github.com/vascocsilva/blakai-nighty",
     "icon": "images/logo.png",
     "keywords": [
-      "color-theme",
-      "theme",
-      "dark",
-      "dark-theme",
-      "monokai-dark"
+        "color-theme",
+        "theme",
+        "dark",
+        "dark-theme",
+        "monokai-dark"
     ],
     "engines": {
         "vscode": "^1.43.0"
