@@ -2,6 +2,10 @@
 
 All notable changes to the "blakai-nighty" extension will be documented in this file.
 
+## [1.2.0] 16-03-2020
+## Changed
+- improve color and style of current selected tab
+
 ## [1.1.0] 16-03-2020
 ## Changed
 - change color of current selected tab
