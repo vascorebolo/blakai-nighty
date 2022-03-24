@@ -2,15 +2,19 @@
 
 All notable changes to the "blakai-nighty" extension will be documented in this file.
 
-## [1.3.0] 16-03-2020
+## [1.3.0] 16-03-2022
+## Changed
+- change readme file image
+
+## [1.3.0] 16-03-2022
 ## Changed
 - improve border and style of hover tab
 
-## [1.2.0] 16-03-2020
+## [1.2.0] 16-03-2022
 ## Changed
 - improve color and style of current selected tab
 
-## [1.1.0] 16-03-2020
+## [1.1.0] 16-03-2022
 ## Changed
 - change color of current selected tab
 - fix some entries
